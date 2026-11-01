@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+/.env
+/.env.backup
+/.env.production
+/public/storage
+/storage/*.key
+.DS_Store
